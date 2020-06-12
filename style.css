@@ -188,6 +188,11 @@ h1 {
 .project {
     background-color: var(--dark);
 }
+
+.project__link {
+    color: var(--light);
+}
+
 .landing__bottom {
     background-color: var(--lighter-dark);
 }
